@@ -32,6 +32,9 @@ img {
 	padding: 0px;
 	border: none;
 }
+.cityimg {
+    border-radius: 50%;
+}
 
 .cleaner_w10 {
 	float: left;
@@ -185,7 +188,13 @@ img {
 /* end of banner */
 
 /* content */
-
+.description
+{
+	padding-top: 80px;
+	padding-bottom: 5px;
+	text-align: center;
+	font-size: 25px;
+}
 #content {
 	clear: both;
 	position: relative;
